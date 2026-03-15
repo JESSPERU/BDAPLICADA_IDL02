@@ -1,0 +1,8 @@
+# Ignorar entorno virtual
+venv_idl02/
+
+# Ignorar credenciales
+config/secrets.toml
+
+# Ignorar archivos de datos pesados
+assets/
